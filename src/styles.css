@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+.all-container{
+  
+  margin: 0px;
+  padding: 0px;
+  background: rgb(217,223,255);
+  background: radial-gradient(circle, rgba(217,223,255,1) 54%, rgba(216,234,255,1) 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}

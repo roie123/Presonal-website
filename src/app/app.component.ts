@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'tester';
+  title = 'Roie Ivri';
+
+  public isShowingMore=false;
+
+  public toggleMore(){
+    this.isShowingMore=!this.isShowingMore;
+  }
+
 }
