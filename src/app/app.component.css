@@ -11,6 +11,7 @@ animation-duration: 1.4s;
 animation-fill-mode:  forwards ;
 text-align: center;
 
+
 }
 
 h1 { color: rgb(255, 255, 255);   font-family: "JetBrains Mono",monospace;
@@ -77,7 +78,7 @@ margin-top: 0;
   white-space: nowrap;
   will-change: box-shadow,transform;
   font-size: 18px;
-  margin-bottom: 10px;
+  margin-bottom: 40px;
 }
 
 .button-29:focus {
